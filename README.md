@@ -34,9 +34,9 @@ In one lane, I would love to make a series of interactive dashboards (either thr
 On the other hand, this project could easily turn into a presentation in a more formal sense, with an intended audience of Broadway producers and investors to help them make wise decisions with their funds. It could be a PowerPoint with static charts and true deep dives into the data, to dig into KPIs and success measures that would indicate a strong ROI.
 
 **Schedule (through 06/28/2022)**
-1.	Get the Data (06/03/2022) *in progress, but behind schedule*
-2.	Clean & Explore the Data (06/12/2022)
-3.	Create Presentation of your Analysis (06/21/2022)
+1.	Get the Data (06/03/2022) *done*
+2.	Clean & Explore the Data (06/12/2022) *done*
+3.	Create Presentation of your Analysis (06/21/2022) *in progress*
 -	Should be a presentation, but could include a Jupyter Notebook or dashboard in Excel, Tableau, or PowerBI
 4.	Internal demos (06/25/2022)
 5.	Demo Day!! (06/28/2022)
